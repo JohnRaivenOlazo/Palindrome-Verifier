@@ -35,4 +35,4 @@ To run the Palindrome Checker locally, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/palindrome-checker.git
+   git clone https://github.com/johnraivenolazo/palindromeverifier-vanillajs.git
