@@ -1,6 +1,6 @@
 # PalindromeVerifier-VanillaJS
 
-![Palindrome Verifier](demo.png)
+![Palindrome Verifier](https://imgdb.net/storage/uploads/2eea06ab3a0a8f912f928218d29662c29220cd53f5bc44fabd1ded13f78da880.png)
 
 ## Overview
 
@@ -26,7 +26,7 @@ This Palindrome Verifier is a lightweight web application built with vanilla Jav
 
 ## Demo
 
-You can access a live demo of the Palindrome Checker [here]().
+You can access a live demo of the Palindrome Checker [here](https://johnraivenolazo.github.io/PalindromeVerifier-VanillaJS/).
 
 ## Getting Started
 
