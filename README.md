@@ -1,7 +1,8 @@
 # PalindromeVerifier-VanillaJS
 
+<p align="center">
 ![Palindrome Verifier](https://imgdb.net/storage/uploads/2eea06ab3a0a8f912f928218d29662c29220cd53f5bc44fabd1ded13f78da880.png)
-
+</p>
 ## Overview
 
 This Palindrome Verifier is a lightweight web application built with vanilla JavaScript, HTML, and CSS. It allows users to quickly check whether a given input text is a palindrome or not. A palindrome is a word, phrase, number, or other sequence of characters that reads the same forward and backward (ignoring punctuation, case, and spacing).
