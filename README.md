@@ -1,7 +1,6 @@
 # PalindromeVerifier-VanillaJS
 
 <p align="center">
-  <h1>Palindrome Verifier</h1>
   <img src="https://imgdb.net/storage/uploads/2eea06ab3a0a8f912f928218d29662c29220cd53f5bc44fabd1ded13f78da880.png" alt="Palindrome Verifier">
 </p>
 
