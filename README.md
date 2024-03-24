@@ -32,9 +32,9 @@ You can access a live demo of the Palindrome Checker [here](https://johnraivenol
 
 ## Getting Started
 
-To run the Palindrome Checker locally, follow these steps:
+To run the Palindrome Checker locally,
 
-1. Clone this repository:
+Clone this repository:
 
    ```bash
    git clone https://github.com/johnraivenolazo/palindromeverifier-vanillajs.git
