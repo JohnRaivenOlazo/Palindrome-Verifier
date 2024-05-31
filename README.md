@@ -28,7 +28,7 @@ This Palindrome Verifier is a lightweight web application built with vanilla Jav
 
 ## Demo
 
-You can access a live demo of the Palindrome Checker [here](https://johnraivenolazo.github.io/PalindromeVerifier-VanillaJS/).
+You can access a live demo of the Palindrome Checker [here](https://johnraivenolazo.github.io/PalindromeVerifier/).
 
 ## Getting Started
 
