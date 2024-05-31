@@ -37,4 +37,4 @@ To run the Palindrome Checker locally,
 Clone this repository:
 
    ```bash
-   git clone https://github.com/johnraivenolazo/palindromeverifier-vanillajs.git
+   git clone https://github.com/johnraivenolazo/palindrome-verifier.git
