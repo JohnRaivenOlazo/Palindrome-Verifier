@@ -38,6 +38,7 @@ Clone this repository:
 
    ```bash
    git clone https://github.com/johnraivenolazo/palindrome-verifier.git
+  ```
 
 ## License
 Palindrome Verifier is licensed under the [MIT License](LICENSE).
